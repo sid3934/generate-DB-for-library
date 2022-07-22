@@ -4,7 +4,7 @@ AS
 CREATE DATABASE db_LibraryManagement
 
 GO
-	/* ======================= TABLES ========================*/
+	
 	/* Following part of the code will create various tables that exist in the to be made database*/
 
 
